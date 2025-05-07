@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: kyuubi2709/grafana:latest
+          tags: kyuubi2709/mcp-discord:latest
